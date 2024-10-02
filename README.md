@@ -7,8 +7,7 @@ transform the perspective so that you get a frontal view of the ID Card.
 
 ## Additional Information
 Dataset: [MIDV-500](https://arxiv.org/abs/1807.05786)   
-Pytorch Version: 1.7.1 CUDA 11.2
-
+Pytorch Version: 1.7.1 CUDA 11.2,
 Trained on a NVIDIA GeForce RTX 3090
 
 ## Installation
