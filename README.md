@@ -73,7 +73,6 @@ Example:
 Intersection over Unit:  
 0.9939
 
-Pipeline Example:  
-![Pipeline](assets/pipeline.png "Workflow Pipeline")
+
 
 
